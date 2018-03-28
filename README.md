@@ -3,8 +3,7 @@ books
 do not fu*k me.
 i am just studying, keep going, keep learning~
   
-  这几年，经历大大小小的浏览页面无数，将收藏的chrome书签mark下。 
-
+- Android  
 [❍ Icon Packs](https://icomoon.io/#icons )  
 [谷歌中国开发者社区 (GDG)](http://chinagdg.org/)  
 [关于红杏的公益代理, Android Studio以及freso的编译 | Yet Another Summer Rain](http://www.liaohuqiu.net/cn/posts/about-red-apricot-and-compiling-fresco/)  
@@ -57,5 +56,44 @@ i am just studying, keep going, keep learning~
 [The Groovy programming language - Groovy Development Kit](http://www.groovy-lang.org/api.html)  
 [Welcome to the Xposed Module Repository! | Xposed Module Repository](http://repo.xposed.info/)  
 [Kotlin 语言中文站](https://www.kotlincn.net/)  
-[Kotlin Programming Language ](https://kotlinlang.org/)
+[Kotlin Programming Language ](https://kotlinlang.org/)  
+  
+    
+- 个人blog  
+[程序猿大雄 | 生死看淡，不服就干！](http://www.wjdiankong.cn/)  
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)  
+[归档 | Weishu's Notes](http://weishu.me/archives/)  
+[胡凯](http://hukai.me/)  
+[技术小黑屋](http://droidyue.com/)
+[简行之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/l173864930)  
+[金刀客博客-攻防无绝对, 技术无黑白,信息安全, 服务器安全维护, 网站安全维护](http://www.daokers.com/)
+[酷壳 – CoolShell.cn](http://coolshell.cn/)  
+[老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/Luoshengyang/article/list/4)  
+[雷霄骅(leixiaohua1020)的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/leixiaohua1020)  
+[乱象，印迹](http://www.luanxiang.org/blog/)  
+[鳥哥的 Linux 私房菜 -- 鳥哥的 Linux 私房菜 首頁](http://linux.vbird.org/#)  
+[人人都是产品经理——iamsujie](http://iamsujie.com/)  
+[任玉刚 - 博客频道 - CSDN.NET](http://blog.csdn.net/singwhatiwanna)  
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+[首页 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/)  
+[系列索引 - 标签 - Vamei - 博客园](http://www.cnblogs.com/vamei/tag/%E7%B3%BB%E5%88%97%E7%B4%A2%E5%BC%95/)  
+[月光博客](http://www.williamlong.info/)  
+[云风的 BLOG](http://blog.codingnow.com/)  
+[Android’s Font Renderer — Medium](https://medium.com/@romainguy/androids-font-renderer-c368bbde87d9#.yogdy2d6j)
+[Android安全攻防战，反编译与混淆技术完全解析（下） - 郭霖的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/guolin_blog/article/details/50451259)  
+[bang’s blog](http://blog.cnbang.net/)  
+[codeKK 开源项目源码分析](http://codekk.com/open-source-project-analysis)  
+[DBA Notes | 闲思录 - 创业感悟 网站架构 性能优化 技术评论](http://dbanotes.net/)  
+[Ele7enxxh's Blog](http://ele7enxxh.com/)  
+[Gityuan博客](http://gityuan.com/)  
+[Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/)  
+[http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)  
+[markzhai's home](http://blog.zhaiyifan.cn/)  
+[Posts - Jake Wharton](http://jakewharton.com/blog)  
+[riusksk's blog](http://riusksk.me/)  
+[stormzhang博客精华](http://stormzhang.com/)  
+[Sword Blog](http://www.swordblog.org/)  
+[Trinea](http://www.trinea.cn/)  
+[workership_新浪博客](http://blog.sina.com.cn/u/1410162304)  
+[A Blog From Human-engineer-being -](http://www.erogol.com/)
  
