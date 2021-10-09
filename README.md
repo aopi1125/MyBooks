@@ -95,8 +95,8 @@ i am just studying, keep going, keep learning~
 [Sword Blog](http://www.swordblog.org/)  
 [Trinea](http://www.trinea.cn/)  
 [workership_新浪博客](http://blog.sina.com.cn/u/1410162304)  
-[A Blog From Human-engineer-being -](http://www.erogol.com/)
-[BATcoder 刘-](http://liuwangshu.cn/system.html)
+[A Blog From Human-engineer-being -](http://www.erogol.com/)  
+[BATcoder 刘-](http://liuwangshu.cn/system.html)  
 
 
    
